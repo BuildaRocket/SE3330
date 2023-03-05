@@ -15,5 +15,5 @@
 - feature_x：根据不同功能开发的分支，带上自己的名字，写完后push到远程，合并到develop
 - bug分支：临时分支，修bug的时候创建
 
-![aba6f827b5e5288b78c1da4402f2051](C:\Users\DELL\AppData\Local\Temp\WeChat Files\aba6f827b5e5288b78c1da4402f2051.jpg)
+![img](https://gitee.com/Doris_BugMaker/img/raw/master/aba6f827b5e5288b78c1da4402f2051.jpg)
 
