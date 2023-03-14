@@ -5,17 +5,17 @@
 2. 使用vscode创建react工程项目，npm run start<br />
 分为以下几部分：<br />
 * 登录页面
-- login.html 登录界面网页<br />
+  - login.html 登录界面网页<br />
 * 个人主页<br />
-- ph.html 个人主页网页<br />
+  - ph.html 个人主页网页<br />
 * 活动大厅<br />
-- waterfall.txt html源码<br />
-- waterfall.html 活动大厅网页<br />
+  - waterfall.txt html源码<br />
+  - waterfall.html 活动大厅网页<br />
 * 私聊界面<br/>
-- chat.html 消息列表和私聊窗口<br/>
+  - chat.html 消息列表和私聊窗口<br/>
 * 活动管理页面<br/>
-- manage.html 发布者活动管理后台<br/>
+  - manage.html 发布者活动管理后台<br/>
 
 ## 三、主要项目负责人
-张奕涵 <br/>
+张奕涵 login.html  chat.html  manage.html<br/>
 胡彤 waterfall.txt waterfall.html ph.html
