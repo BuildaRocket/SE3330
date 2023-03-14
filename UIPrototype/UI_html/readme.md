@@ -17,5 +17,5 @@
   - manage.html 发布者活动管理后台<br/>
 
 ## 三、主要项目负责人
-张奕涵 login.html  chat.html  manage.html<br/>
-胡彤 waterfall.txt waterfall.html ph.html
+张奕涵 login.html & chat.html & manage.html<br/>
+胡彤 waterfall.txt & waterfall.html & ph.html
