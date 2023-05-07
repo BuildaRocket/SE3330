@@ -34,7 +34,7 @@ const items = [
  */
 const PersonView = () => {
     const [collapsed, setCollapsed] = useState(false);
-    const [selectedMenuItem, setSelectedMenuItem] = useState('moments');
+    const [selectedMenuItem, setSelectedMenuItem] = useState('');
 
     const handleMenuClick = (event) => {
         setSelectedMenuItem(event.key);
