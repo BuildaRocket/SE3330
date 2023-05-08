@@ -33,10 +33,12 @@ root.render(
         <BrowserRouter>
             <Routes>
                 <Route exact path="/" element={<App />} > </Route>
-                <Route exact path="/activity1" element={<ActivityDetail ActivityId={1}/>} />
-                <Route exact path="/activity2" element={<ActivityDetail ActivityId={2}/>} />
-                <Route exact path="/activity3" element={<ActivityDetail ActivityId={3}/>} />
-                <Route exact path="/activity4" element={<ActivityDetail ActivityId={4}/>} />
+                <Route exact path="/activity/1" element={<ActivityDetail ActivityId={1}/>} />
+                <Route exact path="/activity/2" element={<ActivityDetail ActivityId={2}/>} />
+                <Route exact path="/activity/3" element={<ActivityDetail ActivityId={3}/>} />
+                <Route exact path="/activity/4" element={<ActivityDetail ActivityId={4}/>} />
+                <Route exact path="/activity/5" element={<ActivityDetail ActivityId={5}/>} />
+                <Route exact path="/activity/6" element={<ActivityDetail ActivityId={6}/>} />
                 <Route exact path="/signup" element={<SignUp />} />
             </Routes>
         </BrowserRouter>

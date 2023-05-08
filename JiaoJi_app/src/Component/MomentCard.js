@@ -24,12 +24,12 @@ const MomentCard: React.FC = ({moment}  ) => {
     // };
     return(
         <Card className="glass-container"
-            style={{ width: 600, marginTop: 16 }}
-            actions={[
-                <HeartOutlined key="like" onClick={handleLike} style={{ color: liked ? 'red' : 'inherit' }} />,
-                <CommentOutlined key="comment" />,
-                <EllipsisOutlined key="ellipsis" />,
-            ]}
+              style={{ width: 600, marginTop: 16 }}
+              actions={[
+                  <HeartOutlined key="like" onClick={handleLike} style={{ color: liked ? 'red' : 'inherit' }} />,
+                  <CommentOutlined key="comment" />,
+                  <EllipsisOutlined key="ellipsis" />,
+              ]}
         >
             <Skeleton loading={loading} avatar active>
                 <Meta

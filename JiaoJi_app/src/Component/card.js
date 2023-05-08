@@ -17,4 +17,3 @@ const MyCard = ({ event }) => (
 
 export default MyCard;
 
-    

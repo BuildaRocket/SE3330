@@ -5,10 +5,10 @@ import PersonView from "./View/PersonView";
 import HomeView from "./View/HomeView";
 
 function App() {
-  return (
-    // <PersonView/>
-      <HomeView/>
-  );
+    return (
+        // <PersonView/>
+        <HomeView/>
+    );
 }
 
 export default App;

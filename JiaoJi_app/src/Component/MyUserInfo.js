@@ -16,4 +16,3 @@ const MyUserInfo = () => {
 
 export default MyUserInfo;
 
-    

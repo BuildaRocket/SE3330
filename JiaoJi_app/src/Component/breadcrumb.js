@@ -16,4 +16,3 @@ const MyBreadcrumb = () => {
     );
 };
 export default MyBreadcrumb;
-
