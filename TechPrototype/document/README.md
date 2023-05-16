@@ -7,3 +7,5 @@
 3.软件架构文档：https://sjtu.feishu.cn/docx/KhW7dcYtAoGGy3xrdbxcMgqJnue
 
 4.Vision文档：https://sjtu.feishu.cn/docx/K8KydDlv3oM6xXx0MFEcPoDenbd
+
+5.编码规范：https://sjtu.feishu.cn/docx/PJlVdKt6goHNHIxXd6Gc5BvOnEb
